@@ -1,0 +1,8 @@
+{
+  "name": "CardPress A6",
+  "description": "A6 student ID card mail-merge studio for importing Excel rosters into print-ready 4.13\" × 5.83\" PDFs and individual hand-fill templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
